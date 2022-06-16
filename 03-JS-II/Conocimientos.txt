@@ -1,0 +1,4 @@
+for = es un bucle o ciclo que se usa para realizaar un proceso una y otra vez. Por ejemplo contar de 1 a 10 
+&& Es un operador logico y define que si dos acciones son verdaderas el resultado sera verdadero mientras que una sea falsa el resultado va ser falso o si ambas son falsas
+|| yun operador logico el cual compara dos expresiones yy si una es falsa y la otra es verdadera es correcto
+! Este operador niega una expresion por ejemplo 10  equivale a 10 es correcto pero si se utiliza el operador ! el resultado es falso

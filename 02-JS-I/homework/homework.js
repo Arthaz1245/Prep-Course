@@ -289,3 +289,15 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
+function matriz(n,m){
+  var i = 0;
+  var j = 0;
+  while(i < n){
+    while(j < m){
+      console.log(i,j);
+      j++;
+    }
+    j=0
+    i++;
+  }
+}
