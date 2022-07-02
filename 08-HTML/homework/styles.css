@@ -1,0 +1,38 @@
+   body{
+    background-image:url(https://cdn.sortiraparis.com/images/80/95878/693086-photos-mohamed-cheikh-top-chef-2021-a-la-pagode-de-cos-de-la-reserve.jpg);
+   }  
+
+   span {
+       color: white;
+   }
+
+   h1 ,h3,h4{
+       color: floralwhite;
+   }
+
+   img {
+       width: 400px;
+   }
+
+   #thirdDiv {
+       width: 500px;
+       height: 600px;
+       background-color: #ff3411;
+       padding: 50px;
+       border: 2px solid black;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       position: relative;
+       left: 50%;
+       }
+
+   #spanId {
+       font-size: 18px;
+       margin: 50px;
+   }
+   div{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+   }
